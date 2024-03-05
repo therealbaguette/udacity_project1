@@ -1,5 +1,7 @@
 # Airbnb Seattle Dataset Analysis
 
+The Blog on medium can be accesed via this link: https://medium.com/@julian.berg/seattle-an-airbnb-analysis-for-investors-967f430551b7
+
 ## Table of Contents
 1. [Installation](#installation)
 2. [Project Motivation](#project-motivation)
